@@ -1,0 +1,3 @@
+[submodule "SharedRepoTest"]
+	path = SharedRepoTest
+	url = https://github.com/PangbornIdentity/SharedRepoTest.git
